@@ -21,6 +21,7 @@
           <li> Edwards Pérez</li>
           <li> Gabriela Marquez</li>
           <li> Jaiker Figueredo</li>
+          <li> Roberto Arrieche</li>
 
         </ul>
         
