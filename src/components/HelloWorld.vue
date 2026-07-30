@@ -22,6 +22,7 @@
           <li> Gabriela Marquez</li>
           <li> Jaiker Figueredo</li>
           <li> Roberto Arrieche</li>
+          <li> Juan Alvarez</li>
 
         </ul>
         
